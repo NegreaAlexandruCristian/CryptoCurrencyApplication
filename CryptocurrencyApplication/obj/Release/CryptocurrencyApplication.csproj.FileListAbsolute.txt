@@ -1,0 +1,15 @@
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\CryptocurrencyApplication.exe.config
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\CryptocurrencyApplication.exe
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\CryptocurrencyApplication.pdb
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\Newtonsoft.Json.dll
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\Newtonsoft.Json.Schema.dll
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\Newtonsoft.Json.xml
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\bin\Release\Newtonsoft.Json.Schema.xml
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.csprojAssemblyReference.cache
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.Form1.resources
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.Properties.Resources.resources
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.csproj.GenerateResource.cache
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.csproj.CoreCompileInputs.cache
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.csproj.CopyComplete
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.exe
+D:\Anul 3\Semestrul 2\Dezvoltarea de aplicatii pentru platforma .Net\CryptocurrencyApplication\CryptocurrencyApplication\obj\Release\CryptocurrencyApplication.pdb

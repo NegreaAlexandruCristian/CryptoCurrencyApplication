@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptocurrencyApplication", "CryptocurrencyApplication\CryptocurrencyApplication.csproj", "{94E60A18-23DE-4B60-B7AF-0E9411DE8827}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B694A397-7EE1-4CE0-BC12-15FCC208054D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E60A18-23DE-4B60-B7AF-0E9411DE8827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E60A18-23DE-4B60-B7AF-0E9411DE8827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E60A18-23DE-4B60-B7AF-0E9411DE8827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E60A18-23DE-4B60-B7AF-0E9411DE8827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B67A4F-87B2-4A5A-980D-362FF91270E7}
+	EndGlobalSection
+EndGlobal
